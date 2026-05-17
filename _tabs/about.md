@@ -7,7 +7,7 @@ order: 4
 <p align="center">
   <img 
     src="/assets/logo_banner_L.png"
-    style="width:100%; max-width:700px; height:auto;"
+    style="width:100%; max-width:500px; height:auto;"
     alt="Banner">
 </p>
 
