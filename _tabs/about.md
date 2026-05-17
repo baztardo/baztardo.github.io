@@ -4,7 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Hero image](/assets/logo_banner_L.png) <img src="logo_banner_L.png" width="300">
+<p align="center">
+  <img 
+    src="/assets/logo_banner_L.png"
+    style="width:100%; max-width:700px; height:auto;"
+    alt="Banner">
+</p>
 
 # 👋 Hi!
 
